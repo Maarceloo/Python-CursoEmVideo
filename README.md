@@ -1,4 +1,4 @@
-# Python-CursoEmVideo
+# Python-CursoEmVideo (Gustavo Guanabara)
 
 <h2> Modulo 1 </h2>
 Introdução ao mundo da programação | Primeiros passos Python | Tratando dados e fazendo contas | Usando módulos em Python | Condições (If / Else) | Adicionando cores.
